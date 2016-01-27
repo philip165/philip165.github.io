@@ -26,8 +26,8 @@ html, body {
     top: 0;
     left: 50%;
     
-    height: 62;
-    width: 56;
+    height: 62px;
+    width: 56px;
     margin-top: -31px;
     margin-left: -28px;
     
@@ -174,7 +174,7 @@ html, body {
 
 #nyancat2{
     Position: absolute;
-    width: 53;
+    width: 53px;
     top: 50%;
     left: 100%;
     margin-left: -22px;
@@ -189,7 +189,7 @@ html, body {
 
 #nyancat3{
     Position: absolute;
-    width: 53;
+    width: 53px;
     top: 100%;
     left: 50%;
     margin-left: -26.5px;
@@ -204,7 +204,7 @@ html, body {
 
 #nyancat4{
     Position: absolute;
-    width: 53;
+    width: 53px;
     top: 50%;
     margin-left: -31px;
     margin-top: -26.5
